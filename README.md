@@ -1,2 +1,2 @@
 # DataScience
-Challenge #5 of Platzi Master
+This project belongs to crytotracker, here can find some algorithms.
